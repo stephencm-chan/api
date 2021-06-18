@@ -1,14 +1,18 @@
 {
-    "symbol": "SIG",
-    "positionType": "Long",
-    "alertDate": "06/14/2021",
-    "daysHeld": 0,
-    "result": 1
-},
-{
-    "symbol": "SIG",
-    "positionType": "Long",
-    "alertDate": "06/14/2021",
-    "daysHeld": 0,
-    "result": -2
+    "alerts": [
+        {
+            "symbol": "SIG",
+            "positionType": "Long",
+            "alertDate": "06/14/2021",
+            "daysHeld": 0,
+            "result": 1
+        },
+        {
+            "symbol": "SIG",
+            "positionType": "Long",
+            "alertDate": "06/14/2021",
+            "daysHeld": 0,
+            "result": -2
+        }
+    ]
 }
