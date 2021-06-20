@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "symbol": "SIG",
+    "positionType": "Long",
+    "alertDate": "06/14/2021",
+    "daysHeld": 0,
+    "result": 1
+  },
+  {
+    "id": 2,
+    "symbol": "SIG",
+    "positionType": "Long",
+    "alertDate": "06/14/2021",
+    "daysHeld": 0,
+    "result": -2
+  },
+  {
+    "id": 3,
+    "symbol": "SIG",
+    "positionType": "Long",
+    "alertDate": "06/14/2021",
+    "daysHeld": 0,
+    "result": 1
+  },
+  {
+    "id": 4,
+    "symbol": "SIG",
+    "positionType": "Long",
+    "alertDate": "06/14/2021",
+    "daysHeld": 0,
+    "result": 1
+  },
+  {
+    "id": 5,
+    "symbol": "SIG",
+    "positionType": "Long",
+    "alertDate": "06/14/2021",
+    "daysHeld": 0,
+    "result": 1
+  },
+]
