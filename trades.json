@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "symbol": "AMD",
+    "symbol": "DASH",
     "positionType": "Long",
-    "alertDate": "07/28/2021",
+    "alertDate": "09/10/2021",
     "daysHeld": 0,
     "result": 1
   },
